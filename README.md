@@ -1,0 +1,2 @@
+# XXSpecs
+storage specs
